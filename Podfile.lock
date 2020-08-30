@@ -1,0 +1,16 @@
+PODS:
+  - CometChatPro (2.1.0)
+
+DEPENDENCIES:
+  - CometChatPro
+
+SPEC REPOS:
+  trunk:
+    - CometChatPro
+
+SPEC CHECKSUMS:
+  CometChatPro: e53d166e77405f5701715e89beb23be116fb1e83
+
+PODFILE CHECKSUM: 8a27bc27fafe51296e07bd453d3f39727fa582a3
+
+COCOAPODS: 1.9.3
